@@ -1,0 +1,65 @@
+Portfolio TODOs
+===============
+
+Check off each item as you fill it in.
+
+-------------------------------------------------------------------------------
+PROJECTS  (src/data/projects.ts)
+-------------------------------------------------------------------------------
+
+CS Project 1
+  [ ] line 7   — title
+  [ ] line 10  — one-line description (shown in sidebar)
+  [ ] line 12  — full description (shown in detail panel)
+  [ ] line 15  — tech stack tags
+  [ ] line 17  — screenshot paths (add images to public/images/, then list paths here)
+  [ ] line 19  — GitHub repo URL
+
+CS Project 2
+  [ ] line 26  — title
+  [ ] line 29  — one-line description (shown in sidebar)
+  [ ] line 31  — full description (shown in detail panel)
+  [ ] line 34  — tech stack tags
+  [ ] line 36  — screenshot paths (add images to public/images/, then list paths here)
+  [ ] line 38  — GitHub repo URL
+
+Game 1
+  [ ] line 45  — title
+  [ ] line 48  — one-line synopsis (shown in sidebar)
+  [ ] line 50  — full synopsis (shown in detail panel)
+  [ ] line 53  — tech stack tags
+  [ ] line 55  — screenshot paths (add images to public/images/, then list paths here)
+  [ ] line 57  — WebGL build (export from Unity/Godot to public/games/game-1/, entry point must be index.html)
+  [ ] line 59  — GitHub repo URL
+
+Game 2
+  [ ] line 66  — title
+  [ ] line 69  — one-line synopsis (shown in sidebar)
+  [ ] line 71  — full synopsis (shown in detail panel)
+  [ ] line 74  — tech stack tags
+  [ ] line 76  — screenshot paths (add images to public/images/, then list paths here)
+  [ ] line 78  — WebGL build (export from Unity/Godot to public/games/game-2/, entry point must be index.html)
+  [ ] line 80  — GitHub repo URL
+
+-------------------------------------------------------------------------------
+ABOUT  (src/app/about/page.tsx)
+-------------------------------------------------------------------------------
+
+  [ ] line 2   — tech stack array (update or add/remove languages and tools)
+  [ ] line 13  — photo (add your photo to public/images/, then replace the placeholder div
+                  with <Image src="/images/photo.jpg" ... className="w-28 h-28 rounded-full object-cover" />)
+  [ ] line 24  — bio paragraph (replace the placeholder text with your actual bio)
+
+-------------------------------------------------------------------------------
+RESUME  (src/app/resume/page.tsx)
+-------------------------------------------------------------------------------
+
+  [ ] line 18  — add public/resume.pdf, then swap the placeholder div for the iframe
+                  (the exact replacement is shown in the TODO comment)
+
+-------------------------------------------------------------------------------
+CONTACT  (src/app/contact/page.tsx)
+-------------------------------------------------------------------------------
+
+  [ ] line 30  — GitHub: replace 'github.com/your-username' and 'https://github.com/your-username'
+  [ ] line 37  — LinkedIn: replace 'linkedin.com/in/your-profile' and 'https://linkedin.com/in/your-profile'
