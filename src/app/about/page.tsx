@@ -23,8 +23,7 @@ export default function AboutPage() {
             </p>
             {/* TODO: Replace with your bio */}
             <p className="text-sm text-zinc-600 dark:text-zinc-400 leading-relaxed">
-              [Bio placeholder — replace with your background, what drives you, and what you&apos;re
-              currently working on or studying.]
+              [Bio placeholder.]
             </p>
           </div>
         </div>

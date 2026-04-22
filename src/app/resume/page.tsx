@@ -15,10 +15,9 @@ export default function ResumePage() {
         </a>
       </div>
 
-      {/* TODO: Once resume.pdf is in public/, replace this div with:
-           <iframe src="/resume.pdf" className="w-full max-w-3xl aspect-[8.5/11] rounded-lg border border-zinc-200 dark:border-zinc-800" title="Resume" />
-      */}
-      <div className="w-full max-w-3xl">
+      <iframe src="/resume.pdf" className="w-full max-w-3xl aspect-[8.5/11] rounded-lg border border-zinc-200 dark:border-zinc-800" title="Resume" />
+     
+      {/* <div className="w-full max-w-3xl">
         <div className="aspect-[8.5/11] bg-zinc-50 dark:bg-zinc-800/50 rounded-lg border border-dashed border-zinc-200 dark:border-zinc-700 flex items-center justify-center">
           <div className="text-center space-y-1">
             <p className="text-sm text-zinc-400 dark:text-zinc-600">Resume preview</p>
@@ -27,7 +26,7 @@ export default function ResumePage() {
             </p>
           </div>
         </div>
-      </div>
+      </div> */}
     </main>
   );
 }

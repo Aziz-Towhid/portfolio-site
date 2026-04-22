@@ -11,13 +11,13 @@ export const projects: Project[] = [
     shortDescription: 'Short description placeholder.',
     // TODO: Full description shown in the detail panel
     description:
-      'Full project description placeholder. Replace this with details about the project, its goals, technologies used, and any interesting challenges you solved.',
+      'Full project description placeholder.',
     // TODO: Tech stack tags
     tags: ['Python', 'Placeholder'],
     // TODO: Add screenshot paths e.g. ['/images/cs1-screen1.png']
     screenshots: [],
     // TODO: Your GitHub repo URL
-    githubUrl: 'https://github.com/your-username',
+    githubUrl: 'https://github.com/Aziz-Towhid',
     year: 2024,
   },
   // TODO: Replace with your second CS project
@@ -30,13 +30,13 @@ export const projects: Project[] = [
     shortDescription: 'Short description placeholder.',
     // TODO: Full description shown in the detail panel
     description:
-      'Full project description placeholder. Replace this with details about the project, its goals, technologies used, and any interesting challenges you solved.',
+      'Full project description placeholder.',
     // TODO: Tech stack tags
     tags: ['TypeScript', 'React', 'Placeholder'],
     // TODO: Add screenshot paths e.g. ['/images/cs2-screen1.png']
     screenshots: [],
     // TODO: Your GitHub repo URL
-    githubUrl: 'https://github.com/your-username',
+    githubUrl: 'https://github.com/Aziz-Towhid',
     year: 2024,
   },
   // TODO: Replace with your first game
@@ -46,10 +46,10 @@ export const projects: Project[] = [
     title: 'Game 1',
     type: 'game',
     // TODO: One-line synopsis shown in the sidebar list
-    shortDescription: 'A short synopsis of your game.',
+    shortDescription: 'A short synopsis of the game.',
     // TODO: Full synopsis shown in the detail panel
     description:
-      'Full game synopsis placeholder. Describe the gameplay, genre, story, and what makes your game unique. Replace this with your actual game description.',
+      'Full game synopsis placeholder.',
     // TODO: Tech stack tags e.g. ['Unity', 'C#', '2D']
     tags: ['Unity', 'C#', 'Placeholder'],
     // TODO: Add screenshot paths e.g. ['/images/game1-screen1.png']
@@ -57,7 +57,7 @@ export const projects: Project[] = [
     // TODO: Drop WebGL export into public/games/game-1/ — entry point must be index.html
     webglPath: '/games/game-1',
     // TODO: Your GitHub repo URL
-    githubUrl: 'https://github.com/your-username',
+    githubUrl: 'https://github.com/Aziz-Towhid',
     year: 2024,
   },
   // TODO: Replace with your second game
@@ -67,10 +67,10 @@ export const projects: Project[] = [
     title: 'Game 2',
     type: 'game',
     // TODO: One-line synopsis shown in the sidebar list
-    shortDescription: 'A short synopsis of your game.',
+    shortDescription: 'A short synopsis of the game.',
     // TODO: Full synopsis shown in the detail panel
     description:
-      'Full game synopsis placeholder. Describe the gameplay, genre, story, and what makes your game unique. Replace this with your actual game description.',
+      'Full game synopsis placeholder.',
     // TODO: Tech stack tags e.g. ['Unity', 'C#', '3D']
     tags: ['Unity', 'C#', 'Placeholder'],
     // TODO: Add screenshot paths e.g. ['/images/game2-screen1.png']
@@ -78,7 +78,7 @@ export const projects: Project[] = [
     // TODO: Drop WebGL export into public/games/game-2/ — entry point must be index.html
     webglPath: '/games/game-2',
     // TODO: Your GitHub repo URL
-    githubUrl: 'https://github.com/your-username',
+    githubUrl: 'https://github.com/Aziz-Towhid',
     year: 2024,
   },
 ];
